@@ -1,9 +1,7 @@
-# 📚Educational-examples 
+# Redux
 
-This repository contains examples of javascript, react, redux, testing among other educational resources that I have made use of during lectured and or talks.
+The following directories contain examples of how redux can be used with plain vanilla js, react, and enhanced with middlewares in order to delegate async logic to the actions.
 
-Its currently under construction 🚧
-
-[Redux](./packages/redux/README.md)
-
-![Under construction](https://media.giphy.com/media/QuIbkMlHq3wipDE0fj/giphy.gif)
+- [Vanilla js](./redux-vanilla-js/README.md)
+- [React Redux](./react-redux/README.md)
+- [Middlewares and async logic](./middlewares-and-async-logic/README.md)
